@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 > An ordinary student.
 >
-> "Go for it! Just do it！"
+> "Go for it！Just do it！"
 
 <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=willcai2020&show_icons=true&hide_border=true&include_all_commits=true" align="right">
 
